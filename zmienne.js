@@ -1,4 +1,4 @@
-let szuflada1 = "Beata";
+let szuflada1 = "Kasia";
 let szuflada2 = 20 + 33;
 console.log(szuflada1);
 console.log(szuflada2);
